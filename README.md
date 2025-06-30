@@ -1,5 +1,6 @@
 # ETABS-API-Example
 An example of how to use the ETABS API with Python
+
 I developed these scripts to streamline the process of creating my ETABS archetypes using the API for my master’s thesis. These scripts provide a step-by-step procedure for drawing elements, especially curved braces, defining various model settings, and performing analysis and capacity-limited design.
 
 These scripts serve as a valuable example of how to use the ETABS API with Python, especially considering the lack of comprehensive documentation on this topic.
